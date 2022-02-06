@@ -14,13 +14,13 @@
 
 <br>
 
-<p align="center">
-  <img src=".github/1.gif" width="1000" alt="ignews" >
-</p>
+## :rocket: Sobre
 
 <br>
 
-## :rocket: Sobre
+<p align="center">
+  <img src=".github/1.gif" width="1000" alt="ignews" >
+</p>
 
 <br>
 
