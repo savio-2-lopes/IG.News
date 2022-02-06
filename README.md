@@ -26,23 +26,6 @@
 
 :memo: O projeto consiste num blog utilizando a API do [Stripe](https://stripe.com/) para o controle de pagamento e salvando os dados no FaunaDB, desenvolvido durante a trilha React da Ignite, disponibilizado pela [Rocketseat](https://rocketseat.com.br/).
 
-<br>
-
-## :computer: Tecnologias
-
-Este projeto foi feito utilizando as seguintes tecnologias:
-
-- [React](https://reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
-- [NextJS](https://nextjs.org/)
-- [FaunaDB](https://fauna.com/)'
-- [Axios](https://github.com/axios/axios)
-- [Prismic](https://prismic.io/)
-- [Stripe](https://stripe.com/)
-- [Sass](https://sass-lang.com/)
-- [ESLint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-
 ## 🚀 Como executar o projeto
 
 ### Pré-requisitos
@@ -96,6 +79,23 @@ $ yarn dev
 # Acesse http://localhost:3000 no seu navegador
 
 ```
+
+<br>
+
+## :computer: Tecnologias
+
+Este projeto foi feito utilizando as seguintes tecnologias:
+
+- [React](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [NextJS](https://nextjs.org/)
+- [FaunaDB](https://fauna.com/)'
+- [Axios](https://github.com/axios/axios)
+- [Prismic](https://prismic.io/)
+- [Stripe](https://stripe.com/)
+- [Sass](https://sass-lang.com/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
 
 <br>
 
