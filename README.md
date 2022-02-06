@@ -26,6 +26,8 @@
   <img src=".github/1.gif" width="1000" alt="ignews" >
 </p>
 
+<br>
+
 ## 🚀 Como executar o projeto
 
 ### Pré-requisitos
