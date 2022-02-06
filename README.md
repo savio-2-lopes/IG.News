@@ -119,7 +119,3 @@ Feito com ❤️ por Savio Lopes 👋🏽 [Entre em contato!](https://www.linked
 ## 💙 Agradecimentos
 
 Meus agradecimentos à [Rocketseat](https://rocketseat.com.br/) por disponibilizar esse conteúdo sensacional 🚀.
-
-```
-
-```
