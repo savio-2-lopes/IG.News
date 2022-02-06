@@ -14,17 +14,17 @@
 
 <br>
 
+<p align="center">
+  <img src=".github/1.gif" width="800" alt="ignews" >
+</p>
+
+<br>
+
 ## :rocket: Sobre
 
 <br>
 
-💼 O projeto consiste num blog utilizando a API do [Stripe](https://stripe.com/) para o controle de pagamento e salvando os dados no FaunaDB, desenvolvido durante a trilha React da Ignite, disponibilizado pela [Rocketseat](https://rocketseat.com.br/).
-
-<br>
-
-<p align="center">
-  <img src=".github/1.gif" width="800" alt="ignews" >
-</p>
+:memo: O projeto consiste num blog utilizando a API do [Stripe](https://stripe.com/) para o controle de pagamento e salvando os dados no FaunaDB, desenvolvido durante a trilha React da Ignite, disponibilizado pela [Rocketseat](https://rocketseat.com.br/).
 
 <br>
 
